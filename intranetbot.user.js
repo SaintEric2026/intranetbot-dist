@@ -6,7 +6,6 @@
 // @author       SaintEric2026
 // @match        https://sbr.wiki/*
 // @match        https://www.sbr.wiki/*
-// @match        chrome://newtab/
 // @exclude      https://sbr.wiki/wp/wp-admin/*
 // @exclude      https://sbr.wiki/wp/wp-login.php*
 // @exclude      https://www.sbr.wiki/wp/wp-admin/*
